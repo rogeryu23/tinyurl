@@ -1,0 +1,26 @@
+{
+  "name": "tinyurl",
+  "version": "1.0.0",
+  "description": "tinyurl fullstack implemenetation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeryu23/tinyurl.git"
+  },
+  "keywords": [
+    "TinyUrl"
+  ],
+  "author": "Roger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeryu23/tinyurl/issues"
+  },
+  "homepage": "https://github.com/rogeryu23/tinyurl#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
