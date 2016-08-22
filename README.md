@@ -1,2 +1,3 @@
-# tinyurl
-tinyurl fullstack implemenetation
+# TinyUrl project
+
+
